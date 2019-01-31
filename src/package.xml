@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+ <types>
+   <members>NVDF_Employee__c</members>
+   <name>CustomObject</name>
+ </types>
+ <types>
+   <members>NVDF</members>
+   <name>CustomApplication</name>
+ </types>
+ <types>
+   <members>NVDF_app_documentation</members>
+   <name>PermissionSet</name>
+ </types>
+ <version>38.0</version>
+</Package>
